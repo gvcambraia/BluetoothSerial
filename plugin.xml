@@ -22,12 +22,6 @@
             <feature name="BluetoothSerial">
                 <param name="android-package" value="com.megster.cordova.BluetoothSerial"/>
             </feature>
-            <feature name="BluetoothSerial2">
-                <param name="android-package" value="com.megster.cordova.BluetoothSerial"/>
-            </feature>
-            <feature name="BluetoothSerial3">
-                <param name="android-package" value="com.megster.cordova.BluetoothSerial"/>
-            </feature>
         </config-file>
 
         <source-file src="src/android/com/megster/cordova/BluetoothSerial.java"
